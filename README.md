@@ -1,0 +1,2 @@
+# pyMake
+Python Makefile parser
